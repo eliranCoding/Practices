@@ -1,0 +1,6 @@
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Code\Learn && Tutorials\C#\Practices\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
